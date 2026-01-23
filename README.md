@@ -1,1 +1,2 @@
-# Shop Backend(User Management)
+# Shop Backend
+## JWT + Refresh + Logout + Products + Sales + Users + RabbitMQ
